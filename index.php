@@ -1,5 +1,5 @@
 <?php
-
+//Hello Codeigniter
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
